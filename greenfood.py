@@ -17,7 +17,7 @@ font = font_manager.FontProperties(fname=font_path).get_name()
 rc('font', family=font)
  
 
-con = pymysql.connect(host='127.0.0.1', user='root',password='chfhr0811',charset='utf8')
+con = pymysql.connect(host='127.0.0.1', user='root',password='0000',charset='utf8')
 
 
 cur = con.cursor()
