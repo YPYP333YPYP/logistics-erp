@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file>./image/checkbox.png</file>
+    <file>./image/clipboard.png</file>
+    <file>./image/cpu.png</file>
+    <file>./image/exit.png</file>
+    <file>./image/food.png</file>
+    <file>./image/power.png</file>
+</qresource>
+</RCC>
